@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avisaini764/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/avisaini764/LeetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/avisaini764/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avisaini764/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/avisaini764/LeetCode/tree/master/0169-majority-element) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/avisaini764/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avisaini764/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/avisaini764/LeetCode/tree/master/0392-is-subsequence) |
 ## Trie
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/avisaini764/LeetCode/tree/master/0141-linked-list-cycle) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/avisaini764/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
