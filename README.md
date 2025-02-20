@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/avisaini764/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avisaini764/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/avisaini764/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/avisaini764/LeetCode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/avisaini764/LeetCode/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/avisaini764/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/avisaini764/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/avisaini764/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/avisaini764/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/avisaini764/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/avisaini764/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/avisaini764/LeetCode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/avisaini764/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
