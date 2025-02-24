@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/avisaini764/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/avisaini764/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/avisaini764/LeetCode/tree/master/0189-rotate-array) |
+| [0228-summary-ranges](https://github.com/avisaini764/LeetCode/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/avisaini764/LeetCode/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
