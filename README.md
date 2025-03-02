@@ -100,18 +100,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/avisaini764/LeetCode/tree/master/0100-same-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avisaini764/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/avisaini764/LeetCode/tree/master/0100-same-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avisaini764/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/avisaini764/LeetCode/tree/master/0100-same-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avisaini764/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/avisaini764/LeetCode/tree/master/0100-same-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avisaini764/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/avisaini764/LeetCode/tree/master/0042-trapping-rain-water) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avisaini764/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
